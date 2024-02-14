@@ -4,7 +4,7 @@ TD Capteur : Name A - Name B
 
 ## TODO List
 
-- [ ] Create repository on MOSH-Insa-Toulouse organization
+- [x] Create repository on MOSH-Insa-Toulouse organization
 - [ ] Add KiCad project
 - [ ] Create KiCad schematic
 - [ ] Add Arduino project
