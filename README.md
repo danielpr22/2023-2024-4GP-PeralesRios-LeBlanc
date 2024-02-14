@@ -6,8 +6,8 @@ TD Capteur : Name A - Name B
 
 - [x] Create repository on MOSH-Insa-Toulouse organization
 - [x] Add KiCad project with version 7.0.10
-- [ ] Create KiCad schematic
-- [ ] Add Arduino project
+- [x] Create KiCad schematic
+- [x] Add Arduino project
 
 ## KiCad project
 
